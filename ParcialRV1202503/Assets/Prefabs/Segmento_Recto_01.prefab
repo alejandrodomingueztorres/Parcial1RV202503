@@ -1272,7 +1272,9 @@ MonoBehaviour:
   longitudSegmento: 50
   anchoCarretera: 10
   sueloCarretera: {fileID: 803469351869188458}
-  lineasCarril: []
+  lineasCarril:
+  - {fileID: 6629939307827779358}
+  - {fileID: 3809450598424303714}
   aceraIzquierda: {fileID: 6629939307827779358}
   aceraDerecha: {fileID: 3809450598424303714}
   puntosSpawnObstaculos:
@@ -1359,7 +1361,10 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  decoracionesLaterales: []
+  decoracionesLaterales:
+  - {fileID: 3321241752112341572, guid: 621ce548636d2dd4da4010027e2266fd, type: 3}
+  - {fileID: 1929435938513134037, guid: d2e843a6ab1a6234da378bc430e55cef, type: 3}
+  - {fileID: 1024616993766253536, guid: ed166c8e10a0e1142a901949be90e1ac, type: 3}
 --- !u!1 &906443862279050182
 GameObject:
   m_ObjectHideFlags: 0
